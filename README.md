@@ -196,3 +196,24 @@ q:::::::qqqqqqqq::::::qp::::::pppppppp:::::::p
                q::::::qp::::::p                            
                qqqqqqqqpppppppp           
 ```
+
+```
+   qqqqqqqqqqqqqqqqqqqqpppppppppppppppppppppp  
+  q::::::::::::::::::::qp::::::::::::::::::::p  
+ q:::::::::::::::::::::qp:::::::::::::::::::::p 
+q:::::::qqqqqqq::::::::qp::::::::ppppppp:::::::p
+q::::::q       q:::::::qp:::::::p       p::::::p
+q:::::q        q:::::::qp:::::::p        p:::::p
+q:::::q        q:::::::qp:::::::p        p:::::p
+q::::::q       q:::::::qp:::::::p       p::::::p
+q:::::::qqqqqqqq:::::::qp:::::::pppppppp:::::::p
+ q:::::::::::::::::::::qp:::::::::::::::::::::p 
+  qq:::::::::::::::::::qp:::::::::::::::::::pp  
+    qqqqqqqqqqq::::::::qp::::::::ppppppppppp    
+               q:::::::qp:::::::p            
+               q:::::::qp:::::::p            
+               q:::::::qp:::::::p           
+               q:::::::qp:::::::p           
+               q:::::::qp:::::::p                            
+               qqqqqqqqqppppppppp          
+```
