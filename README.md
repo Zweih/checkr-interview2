@@ -131,7 +131,7 @@ q:::::::qqqqqqq::::::qp::::::ppppppp:::::::p
 ```
 
 
-best so far
+best so far (prev)
 ```
    qqqqqqqqqqqqqqqqqqqppppppppppppppppppp   
   q::::::::::::::::::qp::::::::::::::::::p  
@@ -197,8 +197,9 @@ q:::::::qqqqqqqq::::::qp::::::pppppppp:::::::p
                qqqqqqqqpppppppp           
 ```
 
+best so far:
 ```
-   qqqqqqqqqqqqqqqqqqqqpppppppppppppppppppppp  
+   qqqqqqqqqqqqqqqqqqqqqppppppppppppppppppppp  
   q::::::::::::::::::::qp::::::::::::::::::::p  
  q:::::::::::::::::::::qp:::::::::::::::::::::p 
 q:::::::qqqqqqq::::::::qp::::::::ppppppp:::::::p
@@ -214,6 +215,29 @@ q:::::::qqqqqqqq:::::::qp:::::::pppppppp:::::::p
                q:::::::qp:::::::p            
                q:::::::qp:::::::p           
                q:::::::qp:::::::p           
+               q:::::::qp:::::::p                            
+               qqqqqqqqqppppppppp          
+```
+
+
+```
+   qqqqqqqqqqqqqqqqqqqqqppppppppppppppppppppp  
+  q::::::::::::::::::::qp::::::::::::::::::::p  
+ q:::::::::::::::::::::qp:::::::::::::::::::::p 
+q:::::::qqqqqqq::::::::qp::::::::ppppppp:::::::p
+q::::::q       q:::::::qp:::::::p       p::::::p
+q:::::q        q:::::::qp:::::::p        p:::::p
+q:::::q        q:::::::qp:::::::p        p:::::p
+q::::::q       q:::::::qp:::::::p       p::::::p
+q:::::::qqqqqqqq:::::::qp:::::::pppppppp:::::::p
+ q:::::::::::::::::::::qp:::::::::::::::::::::p 
+  qq:::::::::::::::::::qp:::::::::::::::::::pp  
+    qqqqqqqqqqq::::::::qp::::::::ppppppppppp    
+               q:::::::qp:::::::p            
+               q:::::::qp:::::::p            
+               q:::::::qp:::::::p           
+               q:::::::qp:::::::p           
+               q:::::::qp:::::::p  
                q:::::::qp:::::::p                            
                qqqqqqqqqppppppppp          
 ```
